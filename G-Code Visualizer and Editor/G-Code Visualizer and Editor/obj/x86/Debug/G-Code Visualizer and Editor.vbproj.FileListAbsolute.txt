@@ -1,0 +1,11 @@
+c:\users\sam\documents\visual studio 2010\Projects\G-Code Visualizer and Editor\G-Code Visualizer and Editor\bin\Debug\G-Code Visualizer and Editor.exe
+c:\users\sam\documents\visual studio 2010\Projects\G-Code Visualizer and Editor\G-Code Visualizer and Editor\bin\Debug\G-Code Visualizer and Editor.pdb
+c:\users\sam\documents\visual studio 2010\Projects\G-Code Visualizer and Editor\G-Code Visualizer and Editor\bin\Debug\G-Code Visualizer and Editor.xml
+c:\users\sam\documents\visual studio 2010\Projects\G-Code Visualizer and Editor\G-Code Visualizer and Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2010\Projects\G-Code Visualizer and Editor\G-Code Visualizer and Editor\obj\x86\Debug\G_Code_Visualizer_and_Editor.Form1.resources
+c:\users\sam\documents\visual studio 2010\Projects\G-Code Visualizer and Editor\G-Code Visualizer and Editor\obj\x86\Debug\G_Code_Visualizer_and_Editor.Resources.resources
+c:\users\sam\documents\visual studio 2010\Projects\G-Code Visualizer and Editor\G-Code Visualizer and Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\sam\documents\visual studio 2010\Projects\G-Code Visualizer and Editor\G-Code Visualizer and Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\sam\documents\visual studio 2010\Projects\G-Code Visualizer and Editor\G-Code Visualizer and Editor\obj\x86\Debug\G-Code Visualizer and Editor.exe
+c:\users\sam\documents\visual studio 2010\Projects\G-Code Visualizer and Editor\G-Code Visualizer and Editor\obj\x86\Debug\G-Code Visualizer and Editor.xml
+c:\users\sam\documents\visual studio 2010\Projects\G-Code Visualizer and Editor\G-Code Visualizer and Editor\obj\x86\Debug\G-Code Visualizer and Editor.pdb
